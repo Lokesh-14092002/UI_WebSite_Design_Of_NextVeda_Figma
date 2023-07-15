@@ -1,4 +1,4 @@
-# WebSiteDesignOfNextVeda
+# UIWebSiteDesignOfNextVeda
 This was a Design For a Nextveda company.
 As an Intern this was an achievement to design this webpage in less than 4 days.  
 This UI/UX Designer Internship position was offered by Zetpeak Pvt. Ltd.
